@@ -1,0 +1,187 @@
+{
+  "cleaner": [
+    {
+      "name": "Kevin Kumar",
+      "field": "Expert Home Cleaner",
+      "rating": 4.2,
+      "price": "₹99",
+      "image": "https://i.postimg.cc/KvSzJn99/22654-6-man.png"
+    },
+    {
+      "name": "Laksh Yadav",
+      "field": "Expert Home Cleaner",
+      "rating": 3.5,
+      "price": "₹100",
+      "image": "https://i.postimg.cc/mkMrTDrN/130592146-handsome-young-man-in-pink-shirt-over-isolated-blue-background-keeping-the-arms-crossed-in.png"
+    },
+    {
+      "name": "Aanand Sharma",
+      "field": "Expert Home Cleaner",
+      "rating": 4.5,
+      "price": "₹90",
+      "image": "https://i.postimg.cc/NMKMPbqn/360-F-224869519-a-Rae-Lneq-ALf-PNBzg0xx-MZXghtv-BXkf-IA-removebg-preview.png"
+    },
+    {
+      "name": "Nisha Tyagi",
+      "field": "Expert Home Cleaner",
+      "rating": 4.2,
+      "price": "₹99",
+      "image": "https://i.postimg.cc/sXRr0Ljz/pretty-smiling-joyfully-female-with-fair-hair-dressed-casually-looking-with-satisfaction-176420-1518.png"
+    },
+    {
+      "name": "Anaisha Gupta",
+      "field": "Expert Home Cleaner",
+      "rating": 4.1,
+      "price": "₹240",
+      "image": "https://i.postimg.cc/MGPHDN4R/55-555989-cleaning-lady-png-removebg-preview.png"
+    },
+    {
+      "name": "Shivani Soni",
+      "field": "Expert Home Cleaner",
+      "rating": 4.2,
+      "price": "₹99",
+      "image": "https://i.postimg.cc/x89wz0bZ/cleaner5-removebg-preview.png"
+    },
+    {
+      "name": "Nidhi Dugal",
+      "field": "Expert Home Cleaner",
+      "rating": 3.9,
+      "price": "₹80",
+      "image": "https://i.postimg.cc/PxbGJLNZ/cleaner4-removebg-preview.png"
+    },
+    {
+      "name": "Krupa Dash",
+      "field": "Expert Home Cleaner",
+      "rating": 4,
+      "price": "₹150",
+      "image": "https://i.postimg.cc/nLmx2xtT/istockphoto-1386479313-170667a-removebg-preview.png"
+    }
+  ],
+  "plumber": [
+    {
+      "name": "Tej Acharya",
+      "field": "Expert Plumber",
+      "rating": 3.5,
+      "price": "₹99",
+      "image": "https://i.postimg.cc/MG22vRJp/789-7894584-plumber-png-transparent-png-removebg-preview.png"
+    },
+    {
+      "name": "Kirtan Patel",
+      "field": "Expert Plumber",
+      "rating": 3,
+      "price": "₹50",
+      "image": "https://i.postimg.cc/5yNMfVd5/kisspng-plumber-plumbing-drain-leak-professional-5b007307816303-52190860152675610353-removebg-previe.png"
+    },
+    {
+      "name": "Dev Arora",
+      "field": "Expert Plumber",
+      "rating": 4.1,
+      "price": "₹90",
+      "image": "https://i.postimg.cc/KvWyhw9L/598-5983575-hero-plumber-man-png-transparent-png-removebg-preview.png"
+    },
+    {
+      "name": "Sujal Bhagat",
+      "field": "Expert Plumber",
+      "rating": 4.4,
+      "price": "₹110",
+      "image": "https://i.postimg.cc/P58nXyc7/depositphotos-137592562-stock-photo-young-handsome-plumber-removebg-preview.png"
+    },
+    {
+      "name": "Shreya Dubey",
+      "field": "Expert Plumber",
+      "rating": 4.1,
+      "price": "₹240",
+      "image": "https://i.postimg.cc/d1FYSC5x/asian-female-plumber-tools-on-260nw-2182727591-removebg-preview.png"
+    }
+  ],
+  "electrician": [
+    {
+      "name": "Jenil Bhavsar",
+      "field": "Expert Electrician",
+      "rating": 4.5,
+      "price": "₹99",
+      "image": "https://i.postimg.cc/44PqvqVt/young-electrician-man-isolated-wall-1368-74506-removebg-preview.png"
+    },
+    {
+      "name": "Reyansh Joshi",
+      "field": "Expert Electrician",
+      "rating": 3.5,
+      "price": "₹70",
+      "image": "https://i.postimg.cc/jdj9Mc41/bigstock-Electrician-smiling-Electricia-374232709-1024x683-removebg-preview.png"
+    },
+    {
+      "name": "Arjun Mahajan",
+      "field": "Expert Electrician",
+      "rating": 4.3,
+      "price": "₹90",
+      "image": "https://i.postimg.cc/D0vDkPk8/young-hispanic-man-wearing-worker-260nw-1815154307-removebg-preview.png"
+    },
+    {
+      "name": "Sachin Rastogi",
+      "field": "Expert Electrician",
+      "rating": 4.4,
+      "price": "₹150",
+      "image": "https://i.postimg.cc/90LkWwC1/what-does-electrician-do-removebg-preview.png"
+    }
+  ],
+  "painter": [
+    {
+      "name": "Vivaan Patil",
+      "field": "Expert Painter",
+      "rating": 4.3,
+      "price": "₹99",
+      "image": "https://i.postimg.cc/W3x3Rrs1/58527631-emotion-and-people-concept-happy-smiling-young-man-with-crossed-arms-over-gray-background-r.png"
+    },
+    {
+      "name": "Kabir Shah",
+      "field": "Expert Painter",
+      "rating": 3.3,
+      "price": "₹80",
+      "image": "https://i.postimg.cc/mZFkYdSz/istockphoto-1200677760-612x612-removebg-preview.png"
+    },
+    {
+      "name": "Dhruv Ghosh",
+      "field": "Expert Painter",
+      "rating": 4.9,
+      "price": "₹150",
+      "image": "https://i.postimg.cc/QxQMPHwj/portrait-successful-man-having-stubble-posing-with-broad-smile-keeping-arms-folded-171337-1267-remov.png"
+    },
+    {
+      "name": "Mohmmad Abdul",
+      "field": "Expert Painter",
+      "rating": 4.6,
+      "price": "₹120",
+      "image": "https://i.postimg.cc/L8msMmFL/young-handsome-man-with-beard-isolated-keeping-arms-crossed-frontal-position-1368-132662-removebg-pr.png"
+    }
+  ],
+  "recommended": [
+    {
+      "name": "Jiya Chopra",
+      "field": "Expert Home Cleaner",
+      "rating": 4.2,
+      "price": "₹150",
+      "image": "https://i.postimg.cc/KvjtzXq8/home-cleaner-removebg-preview.png"
+    },
+    {
+      "name": "Ketan Shah",
+      "field": "Expert Plumber",
+      "rating": 3.5,
+      "price": "₹100",
+      "image": "https://i.postimg.cc/J4FZHTvc/plumber-removebg-preview.png"
+    },
+    {
+      "name": "Rishi Prasad",
+      "field": "Expert Electrician",
+      "rating": 4.2,
+      "price": "₹150",
+      "image": "https://i.postimg.cc/rpdBLGPw/electrician3-removebg-preview.png"
+    },
+    {
+      "name": "Ved Verma",
+      "field": "Expert Painter",
+      "rating": 3.9,
+      "price": "₹200",
+      "image": "https://i.postimg.cc/Y0ng3897/painter-removebg-preview.png"
+    }
+  ]
+}
